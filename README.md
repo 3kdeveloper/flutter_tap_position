@@ -1,3 +1,3 @@
 # Flutter Tap Position
 
-A Flutter project that display the tap position on the screen.
+A Flutter project that display the value of tap position on the screen.
